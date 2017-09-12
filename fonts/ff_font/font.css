@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Final-Fantasy-36-Font';
+  src: url('Final-Fantasy-36-Font.woff') format('woff'),
+       url('Final-Fantasy-36-Font.ttf') format('truetype'),
+       url('Final-Fantasy-36-Font.svg#Final-Fantasy-36-Font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'final_fantasy_36_font';
+  src: url('final_fantasy_36_font.eot');
+  src: url('final_fantasy_36_font.woff2') format('woff2'),
+       url('final_fantasy_36_font.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
